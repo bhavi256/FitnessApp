@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="next">Next</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="textview_is_this">TextView is this</string>
+    <string name="name">Name</string>
+    <string name="lol">lol</string>
+    <string name="checkbox">CheckBox</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
